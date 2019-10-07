@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Relocation Moving Truck</string>
+    <string-array name="rental_options">
+        <item>10\' Truck ($19.95 - 1 Day Rental)</item>
+        <item>17\' Truck ($29.95 - 1 Day Rental)</item>
+        <item>26\' Truck ($39.95 - 1 Day Rental)</item>
+    </string-array>
+    <string name="numMiles">Number of Miles</string>
+    <string name="btnCalculate">Calculate Cost</string>
+</resources>
